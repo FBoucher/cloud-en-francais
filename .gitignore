@@ -1,0 +1,14 @@
+[Bb]in/
+obj/
+output/
+
+config.wyam.dll
+config.wyam.hash
+config.wyam.packages.xml
+
+tools/
+wwwroot/
+
+.vscode/*
+.vscode/settings.json
+LocalCommand.txt
