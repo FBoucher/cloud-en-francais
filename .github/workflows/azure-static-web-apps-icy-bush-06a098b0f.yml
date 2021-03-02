@@ -18,6 +18,10 @@ jobs:
       - uses: actions/checkout@v2
         with:
           submodules: true
+      - uses: actions/setup-dotnet@v1
+        with:
+        dotnet-version: '3.1.100' # SDK Version to use.
+      - run: dotnet run -- deploy
       - name: Build And Deploy
         id: builddeploy
         uses: Azure/static-web-apps-deploy@v0.0.1-preview
