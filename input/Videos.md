@@ -1,8 +1,7 @@
 ---
 title: Vidéos (Cloud 5 minutes)
 permalink: /cloud5mins
-date: 2018-05-27
-published: false
+Published: 2018-05-27
 tags: [video, youtube, mvp, cloud5mins, videos, tutorial]
 ---
 

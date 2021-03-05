@@ -1,6 +1,6 @@
 ---
 title: "Les trouvailles de la semaine, 1er Février" 
-date: 2021-02-01
+Published: 2021-02-01
 categories: post-fr
 tags: [azure,cloud,post,dotnet,readingnotes,video]
 ---

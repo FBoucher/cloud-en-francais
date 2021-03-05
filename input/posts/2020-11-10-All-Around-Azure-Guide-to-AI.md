@@ -1,6 +1,6 @@
 ---
 title: "All Around Azure - A Developer's Guide to AI " 
-date: 2020-11-10
+Published: "2020-11-10"
 categories: post-fr
 tags: [azure,cloud,post,event,ai,allaroundazure]
 ---

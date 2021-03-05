@@ -1,8 +1,7 @@
 ---
 title: À Propos
 permalink: /apropos
-date: 2019-05-19
-published: true
+Published: 2019-05-19
 tags: [bio, apropos, frank, cloud5mins, frankboucher]
 ---
 

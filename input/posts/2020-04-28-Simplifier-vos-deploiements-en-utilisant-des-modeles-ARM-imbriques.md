@@ -1,6 +1,6 @@
 ---
 title: "Simplifier vos déploiements en utilisant des modèles Azure Resource manager (ARM) imbriqués" 
-date: 2020-04-28
+Published: 2020-04-28
 categories: post
 tags: [azure,cloud,post,video,cloud5mins,arm,function,serverless,appservice,webapp, nested]
 ---

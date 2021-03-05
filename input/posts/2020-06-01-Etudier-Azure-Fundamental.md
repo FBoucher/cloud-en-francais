@@ -1,6 +1,6 @@
 ---
 title: "Tout ce qu'il faut savoir à propos d'Azure Fondamentale, et passer votre certification AZ-900" 
-date: 2020-06-01
+Published: 2020-06-01
 categories: post-fr
 tags: [azure,cloud,post,video,cloudenfr,fundamentale,az900]
 ---
