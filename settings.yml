@@ -1,10 +1,10 @@
 SiteTitle: Cloud en français
-Description: L'infonuagique et plus encore
-Intro: Parlons du «cloud computing» en français
+Intro: L'infonuagique et plus encore
+Description: Parlons du «cloud computing» en français
 
 Image: content/images/Cloudenfrancais-logo3.png
 
 PublishedUsesLastModifiedDate: false
 LinkHideExtensions: false
 LinksUseHttps: true
-DateTimeDisplayCulture: fr-CA
+DateTimeDisplayCulture: "fr-FR"
