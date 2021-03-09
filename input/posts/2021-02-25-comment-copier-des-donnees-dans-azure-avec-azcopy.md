@@ -2,8 +2,8 @@
 title: "Comment copier des données dans Azure avec AZCopy" 
 Published: 2021-02-25
 categories: post-fr
-featured-image: https://img.youtube.com/vi/3AKC_IvsQxE/default.jpg
-Image: https://img.youtube.com/vi/3AKC_IvsQxE/default.jpg
+featured-image: https://img.youtube.com/vi/3AKC_IvsQxE/hqdefault.jpg
+Image: https://img.youtube.com/vi/3AKC_IvsQxE/hqdefault.jpg
 tags: [azcopy,azure,cloud,post,dotnet,readingnotes,video]
 ---
 

@@ -2,8 +2,8 @@
 title: "Les trouvailles de la semaine, édition du 1er mars" 
 Published: 2021-03-01
 categories: post-fr
-featured-image: https://img.youtube.com/vi/rikzUwsJkik/default.jpg
-Image: https://img.youtube.com/vi/rikzUwsJkik/default.jpg
+featured-image: https://img.youtube.com/vi/rikzUwsJkik/hqdefault.jpg
+Image: https://img.youtube.com/vi/rikzUwsJkik/hqdefault.jpg
 tags: [azure,cloud,post,dotnet,readingnotes,video]
 ---
 

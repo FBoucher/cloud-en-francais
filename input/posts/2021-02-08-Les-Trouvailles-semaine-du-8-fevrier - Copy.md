@@ -2,7 +2,7 @@
 title: "Les trouvailles, semaine du 8 Février" 
 Published: 2021-02-08
 categories: post-fr
-featured-image: https://img.youtube.com/vi/DBG4yBTZio8/default.jpg
+featured-image: https://img.youtube.com/vi/DBG4yBTZio8/hqdefault.jpg
 tags: [azure,cloud,post,dotnet,readingnotes,video]
 ---
 
