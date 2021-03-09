@@ -3,6 +3,7 @@ title: "Les trouvailles de la semaine, édition du 22 février"
 Published: 2021-02-22
 categories: post-fr
 featured-image: https://img.youtube.com/vi/Yo3S-TwT3f0/default.jpg
+Image: https://img.youtube.com/vi/Yo3S-TwT3f0/default.jpg
 tags: [azure,cloud,post,dotnet,readingnotes,video]
 ---
 
