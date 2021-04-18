@@ -9,7 +9,7 @@ tags: [azure,cloud,post,video,cloud5mins,function, serverless,storage,nosql]
 
 Je ne sais pas pour vous mais je partage très souvent des liens. Et la plupart du temps, il s'agit de vidéos, il doit donc être court et facile à retenir. Quelque chose comme https://c5m.ca/project est meilleur qu'une chaîne aléatoire (aka. GUID). Et c'est ainsi que j'ai commencé un projet de construction d'un raccourcisseur d'URL. Je voulais être économique, facile à déployer et personnalisable. Dans cet article, je partagerai comment je le construis, comment vous pouvez l'utiliser et comment vous pouvez m'aider!
 
-![Azure Url Shortener](https://github.com/FBoucher/AzUrlShortener/raw/master/medias/UrlShortener_600.png)
+![Azure Url Shortener](https://github.com/FBoucher/AzUrlShortener/raw/main/medias/UrlShortener_600.png)
 
 Construis avec la communauté
 -----------------------------
@@ -38,11 +38,11 @@ Comment VOUS pouvez l'utiliser
 
 Tout le code est disponible dans GitHub, et il est déployable avec un bouton en un clic!
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/?WT.mc_id=urlshortener-github-frbouche#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FFBoucher%2FAzUrlShortener%2Fmaster%2Fdeployment%2FazureDeploy.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/?WT.mc_id=urlshortener-github-frbouche#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FFBoucher%2FAzUrlShortener%2Fmain%2Fdeployment%2FazureDeploy.json)
 
 Cela déploiera le backend dans votre abonnement Azure en quelques minutes. Si vous ne possédez pas déjà un abonnement Azure, vous pouvez [créer votre compte Azure gratuit aujourd'hui](https://azure.microsoft.com/en-us/free?WT.mc_id=cloudenfr-blog-frbouche).
 
-Ensuite, vous voudrez probablement une interface pour créer vos précieuses URL. Une fois de plus dans le dépôt GitHub, il y a une [Liste](https://github.com/FBoucher/AzUrlShortener/blob/master/src/adminTools/README.md#list-of-available-admin- interfaces) des interfaces d'administration disponibles et prêt à l'emploi. Le **site Web Admin Blazor** est actuellement le plus convivial et peut également être déployé en un seul clic.
+Ensuite, vous voudrez probablement une interface pour créer vos précieuses URL. Une fois de plus dans le dépôt GitHub, il y a une [Liste](https://github.com/FBoucher/AzUrlShortener/blob/main/src/adminTools/README.md#list-of-available-admin- interfaces) des interfaces d'administration disponibles et prêt à l'emploi. Le **site Web Admin Blazor** est actuellement le plus convivial et peut également être déployé en un seul clic.
 
 Comment vous pouvez aider et participer
 --------------------------------
