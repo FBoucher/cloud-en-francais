@@ -38,3 +38,5 @@ Enfin dans cette troisième et dernière vidéo, Guy nous montre comment déploy
 Je vous suggère fortement de suivre le *Learning Path*: [Aministrer des conteneurs dans Azure](https://learn.microsoft.com/en-gb/training/paths/administer-containers-in-azure/). Ne vous faite pas avoir par son nom qui semble de niveau "avancé", c'est une formation accessible. 
 
 J'en profite le dire un gros merci à Guy, sans qui ces vidéos d'introductions n'auraient pas été possibles. 
+
+~Frank
