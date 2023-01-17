@@ -12,3 +12,5 @@ wwwroot/
 .vscode/*
 .vscode/settings.json
 LocalCommand.txt
+ 
+ cache/
