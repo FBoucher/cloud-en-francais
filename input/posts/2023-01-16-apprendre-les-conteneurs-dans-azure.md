@@ -1,6 +1,6 @@
 ---
 title: "Nouvelle série de vidéos pour débuter avec les conteneurs dans Azure" 
-Published: 2023-01-16
+Published: 2023-01-17
 categories: post-fr
 tags: [azure,cloud,collaboration,conteneur,docker,post,video]
 ---
