@@ -11,9 +11,7 @@ Visual Studio, ou VSCode pour les amis est un outil qui est devenu un standard d
 
 Lundi 24 avril je ferai une présentation, **en français et en direct**, sur comment [débuter avec VS Code, Codespaces et Copilot](https://www.meetup.com/microsoft-reactor-toronto/events/292554625/). Durant cette présentation nous allons explorer comment c'est trois outils qui peuvent nous aider à développer plus rapidement et plus efficacement. 
 
-[Reservez votre place dès maintenant](https://www.meetup.com/microsoft-reactor-toronto/events/292554625/), et apportez vos questions!
-
-[![meetup][meetup]](https://www.meetup.com/microsoft-reactor-toronto/events/292554625/)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DPZQg7bQaPE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 --- 
 Pour vous donner un avant-goût, voici quelques vidéos que j'ai réalisés (en anglais) pour démontrer comment Copilot peut aider, peu importe le langage que vous utilisez.
