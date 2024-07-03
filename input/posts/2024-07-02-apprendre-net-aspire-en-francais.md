@@ -1,6 +1,8 @@
 ---
 title: "Apprendre .NET Aspire en français"	 
-Published: 2024-05-16
+Published: 2024-07-02
+featured-image: ../content/images/2024/07/introduction.png
+Image: ../content/images/2024/07/introduction.png
 categories: post-fr
 tags: [azure,aspire,dotnet,visualstudio,docker,post,video]
 ---
