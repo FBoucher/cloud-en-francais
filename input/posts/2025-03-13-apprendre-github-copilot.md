@@ -14,7 +14,7 @@ J'ai récemment diffusé une vidéo en direct sur YouTube pour montrer comment u
 
 Le meilleur dans tout ça, c'est que vous pouvez le faire vous aussi, gratuitement et à votre rythme! En effet, tout le contenu (vidéo, diapositives, code source sont disponibles, en français, sur GitHub.
 
-<iframe width="800" height="40" src="https://www.youtube.com/embed/mmLqyyQAOyI?si=4fSg2xiHIvcCazN5" title="Let's Learn .NET - GitHub Copilot (French)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/mmLqyyQAOyI?si=4fSg2xiHIvcCazN5" title="Let's Learn .NET - GitHub Copilot (French)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br/> 🎁 Collection: https://aka.ms/letslearn/dotnet/ghcp
 <br/> 📌 Repo: https://github.com/microsoft/mastering-github-copilot-for-dotnet-csharp-developers
