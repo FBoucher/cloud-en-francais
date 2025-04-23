@@ -216,6 +216,8 @@ var dialog = await DialogService.ShowDialogAsync<NewUrlDialog>(shortUrlRequest, 
 	});
 ```
 
+<img src="../content/images/2025/04/tinyblazyadmin-tour.gif" alt="Nouveau look du site" width="600" height="338" />
+
 ## Remplacement de l'authentification
 
 Au lieu d'avoir à implémenter l'authentification dans le projet Blazor, nous utiliserons une fonctionnalité d'Azure Container Apps qui ne nécessite aucun changement de code! Vous n'avez pas besoin de changer une seule ligne de code pour sécuriser votre application déployée sur Azure Container Apps (ACA)! Au lieu de cela, votre application est automatiquement protégée simplement en activant la fonctionnalité d'authentification, appelée EasyAuth.
