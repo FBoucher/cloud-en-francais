@@ -239,6 +239,10 @@ La migration de Blazor WebAssembly vers FluentUI Blazor Server a été un voyage
 
 Le résultat final est une application moderne et conteneurisée qui est à la fois plus facile à maintenir et plus agréable à utiliser. L'ajout du support du mode sombre et des capacités de thèmes sont de grandes améliorations pour l'expérience utilisateur.
 
+## Vous voulez en apprendre davantage?
+
+Pour en apprendre davantage sur Azure Container Apps, je vous conseille fortement ce dépôt: [Débuter avec .NET sur Azure Container Apps](https://aka.ms/aca-start). Il contient plusieurs tutoriels étape par étape (avec vidéos) pour apprendre à utiliser Azure Container Apps avec .NET.
+
 Vous avez des questions sur le processus de migration ou vous souhaitez partager vos propres expériences avec FluentUI Blazor? N'hésitez pas à me contacter sur [@fboucheros.bsky.social](https://bsky.app/profile/fboucheros.bsky.social) ou à ouvrir un problème sur le [dépôt GitHub AzUrlShortener](https://github.com/microsoft/AzUrlShortener). J'aimerais connaître vos réflexions!
 
 ## Références
