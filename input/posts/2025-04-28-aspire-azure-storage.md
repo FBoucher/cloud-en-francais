@@ -206,3 +206,9 @@ J'ai vraiment apprécié ce voyage de migration du projet AzUrlShortener autant 
 ## Pour en savoir plus
 
 Pour en savoir plus sur Azure Container Apps, je vous recommande fortement ce dépôt : [Getting Started .NET on Azure Container Apps](https://aka.ms/aca-start), il contient de nombreux tutoriels étape par étape (avec vidéos) pour apprendre à utiliser Azure Container Apps avec .NET.
+
+## Une vidéo pour illustrer tout ça
+
+J'ai également enregistré une vidéo, en anglais, pour illustrer tout cela. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bIp4LIG0gvU?si=uXL4A4LdYF8W7WnH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
