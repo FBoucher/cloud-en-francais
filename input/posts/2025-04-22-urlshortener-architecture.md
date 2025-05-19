@@ -81,4 +81,4 @@ Pendant le travail, il y a eu quelques défis ou "détours" qui ont ralenti un p
 
 ## Vous voulez en apprendre davantage?
 
-Pour en apprendre davantage sur Azure Container Apps, je vous conseille fortement ce dépôt: [Débuter avec .NET sur Azure Container Apps](https://github.com/FBoucher/getting-started-dotnet-aca). Il contient plusieurs tutoriels étape par étape (avec vidéos) pour apprendre à utiliser Azure Container Apps avec .NET.
+Pour en apprendre davantage sur Azure Container Apps, je vous conseille fortement ce dépôt: [Débuter avec .NET sur Azure Container Apps](https://aka.ms/aca-start). Il contient plusieurs tutoriels étape par étape (avec vidéos) pour apprendre à utiliser Azure Container Apps avec .NET.
