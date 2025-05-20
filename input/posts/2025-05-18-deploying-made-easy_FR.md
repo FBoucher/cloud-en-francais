@@ -1,11 +1,11 @@
 ---
-title: "Le Déploiement full-stack sur Azure en toute simplicité : conteneurs, bases de données et plus" 
-Published: 2025-05-18
+title: "Le Déploiement full-stack sur Azure en toute simplicité : conteneurs, bases de données et plus"
+Published: 2025-05-20
+featured-image: ../content/images/2025/05/deploying-made-easy_th_FR.png
+Image: ../content/images/2025/05/deploying-made-easy_th_FR.png
 categories: post
-tags: [azure,azd,deployment,dotnet,aspire,container,cicd,database,dab]
+tags: [azure,azd,cicd,deployment,devops,dotnet,aspire,container,cicd,database,dab,post]
 ---
-
-# Le Déploiement Full-Stack sur Azure en Toute Simplicité : Conteneurs, Bases de Données et Plus
 
 L'automatisation des déploiements est quelque chose que j'apprécie toujours. Cependant, c'est vrai que cela prend souvent plus de temps qu'un simple "déploiement par clic droit". De plus, vous devez peut-être connaître différentes technologies et langages de script.
 
@@ -14,7 +14,7 @@ Mais que diriez-vous s'il existait un outil qui pourrait vous aider à écrire t
 
 ## Que voulons-nous faire ?
 
-Notre objectif : **Déployer l'[application 2D6 Dungeon](https://github.com/FBoucher/2d6-dungeon-app) vers Azure Container Apps.**
+Notre objectif : **Déployer l'[application 2D6 Dungeon](https://c5m.ca/2d6-dungeon-app) vers Azure Container Apps.**
 
 Cette solution .NET Aspire comprend :
 - Une interface utilisateur (frontend)
@@ -58,7 +58,7 @@ Lorsque MySQL démarre, il cherche des fichiers SQL dans un dossier spécifique 
 
 ### L'API de Données
 
-Ce projet utilise **[Data API Builder (dab)](https://learn.microsoft.com/fr-fr/azure/data-api-builder/)**. Basé sur un seul fichier de configuration, une API de données complète est construite et hébergée dans un conteneur.
+Ce projet utilise **[Data API Builder (dab)](https://c5m.ca/dab)**. Basé sur un seul fichier de configuration, une API de données complète est construite et hébergée dans un conteneur.
 
 Localement, Aspire crée un conteneur DAB et lit le fichier de configuration JSON pour créer l'API. Ceci est spécifié dans le projet AppHost :
 
@@ -78,8 +78,8 @@ La solution est simple : **les scripts SQL et le fichier de configuration DAB do
 
 Vous pouvez le faire en ajoutant un **hook post-provision** dans le fichier `azure.yaml` pour exécuter un script qui téléverse les fichiers. Voir un exemple de hook post-provision dans [cet article](https://devblogs.microsoft.com/dotnet/generate-dotnet-secrets-automatically-from-azure-deployment/).
 
-Alternativement, vous pouvez utiliser les fonctionnalités alpha d'azd : `azd.operation` et `infraSynth`.
-- `azd.operation` étend les fournisseurs de provisionnement et téléversera les fichiers pour nous.
+Alternativement, vous pouvez utiliser les fonctionnalités alpha d'azd : `azd.operations` et `infraSynth`.
+- `azd.operations` étend les fournisseurs de provisionnement et téléversera les fichiers pour nous.
 - `infraSynth` génère les fichiers IaC pour la solution complète.
 
 > **💡Note :** Ces fonctionnalités sont en alpha et sujettes à changement.
@@ -93,7 +93,7 @@ azd config list-alpha
 Pour activer les fonctionnalités dont nous avons besoin :
 
 ```bash
-azd config set alpha.azd.operation on
+azd config set alpha.azd.operations on
 azd config set alpha.infraSynth on
 ```
 
@@ -176,8 +176,15 @@ C'est passionnant de voir comment des outils comme azd façonnent l'avenir du d�
 Si vous avez des questions ou des commentaires, je suis toujours heureux d'aider — contactez-moi simplement sur votre plateforme de médias sociaux préférée.
 
 
+## Versio vidéo
+
+J'ai également enregistré une vidéo, en anglais, pour illustrer tout cela. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0ZjYQdwcifs?si=nF0h_GcSkymaXuAB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 #### Références
 
-- [Dépôt GitHub de 2D6 Dungeon App](https://github.com/FBoucher/2d6-dungeon-app)
-- [Azure Developer CLI (azd)](https://learn.microsoft.com/fr-fr/azure/developer/azure-developer-cli/)
-- [Data API Builder (dab)](https://learn.microsoft.com/fr-fr/azure/data-api-builder/)
+- [Dépôt GitHub de 2D6 Dungeon App](https://c5m.ca/2d6-dungeon-app)
+- [Azure Developer CLI (azd)](https://c5m.ca/azd)
+- [Data API Builder (dab)](https://c5m.ca/dab)
