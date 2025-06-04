@@ -96,9 +96,9 @@ Aucun projet n'est complet sans indicateurs de statut appropriés. J'ai ajouté 
 
 ### Ce qui a bien fonctionné
 1. **L'IA comme partenaire d'apprentissage** : Avoir Copilot qui explique les concepts de test et les fonctionnalités xUnit était comme avoir un professeur patient
-2. **Raffinement itératif** : Le processus d'aller-retour s'est senti naturel et productif
-3. **Solutions complètes** : L'IA n'a pas seulement écrit des tests ; elle a créé une infrastructure de test complète
-4. **Qualité plutôt que vitesse** : Bien que cela ait pris 4 heures, le résultat était complet et bien structuré
+2. **Raffinement itératif** : le processus d'aller-retour s'est senti naturel et productif
+3. **Solutions complètes** : l'IA n'a pas seulement écrit des tests ; elle a créé une infrastructure de test complète
+4. **Qualité plutôt que vitesse** : bien que cela ait pris 4 heures, le résultat était complet et bien structuré
 
 ### Ce que je ferais différemment
 1. **Être plus spécifique initialement** : commencer avec une portée plus claire aurait rationalisé le processus
