@@ -176,7 +176,7 @@ C'est passionnant de voir comment des outils comme azd façonnent l'avenir du d�
 Si vous avez des questions ou des commentaires, je suis toujours heureux d'aider — contactez-moi simplement sur votre plateforme de médias sociaux préférée.
 
 
-## Versio vidéo
+## Version vidéo
 
 J'ai également enregistré une vidéo, en anglais, pour illustrer tout cela. 
 
