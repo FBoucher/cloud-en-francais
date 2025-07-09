@@ -72,7 +72,7 @@ GitLab Duo est devenu mon partenaire de programmation en paire. Voici comment je
 
 ![capture d'écran dans VSCode utilisant GitLab Duo pour expliquer une partie du code](../content/images/2025/07/duo_explain.png)
 
-**Résoudre des problèmes** : Quand mes tests ne roulaient pas, j'ai décrit le problème à Duo et j'ai obtenu des suggestions spécifiques. Par exemple, il m'a aidé à réaliser que j'avais besoin d'installer le workload Aspire dans mon pipeline.
+**Résoudre des problèmes** : Quand la solution ne compilait pas, j'ai décrit le problème à Duo et j'ai obtenu des suggestions spécifiques. Par exemple, ça m'a aidé à réaliser que certains projets n'étaient pas en .NET 9 parce que dotnet build nécessitait la charge de travail Aspire. Je pouvais soit garder mon projet en .NET 8 et ajouter une instruction before_script pour installer la charge de travail, soit faire la mise à niveau vers .NET 9; j'ai choisi la dernière option.
 
 **Ajouter des fonctionnalités** : J'ai commencé avec juste build et test, puis j'ai demandé de façon incrémentale à Duo de m'aider à ajouter l'analyse de sécurité, la détection de secrets, et une meilleure gestion d'erreurs.
 
@@ -97,3 +97,5 @@ Que vous soyez nouveau à .NET Aspire ou au CI/CD, ce template vous donne une bo
 Si vous pensez qu'on devrait ajouter plus de fonctionnalités ou améliorer le template, n'hésitez pas à ouvrir une issue dans le repository. Vos commentaires sont toujours les bienvenus !
 
 ![Capture d'écran du projet template Aspire sur GitLab](../content/images/2025/07/aspire_template.png)
+
+Merci à [David Fowler](https://bsky.app/profile/davidfowl.com/post/3ltiwbulr222r) pour son feedback!
