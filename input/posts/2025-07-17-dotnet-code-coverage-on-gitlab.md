@@ -5,7 +5,7 @@ categories: post
 tags: [ai,devops,dotnet,gitlab,copilot,aspire,cicd,unittest,pipeline]
 ---
 
-Dans un récent [billet](https://www.frankysnotes.com/2025/07/how-to-have-gitlab-cicd-for-net-aspire.html), j'ai partagé comment configurer un pipeline CI/CD pour un projet .NET Aspire sur GitLab. Le pipeline inclut des tests unitaires, une analyse de sécurité, et la détection de secrets, et si l'un de ces éléments échoue, le pipeline échouerait. Super, mais qu'en est-il de la couverture de code (Code Coverage) pour les tests unitaires ? Le pipeline incluait des commandes de couverture de code, mais la couverture n'était pas visible dans l'interface GitLab. Réglons ça.
+Dans un récent [blog post](https://www.cloudenfrancais.com/posts/2025-07-07-comment-avoir-un-cicd-pour-aspire-sur-gitlab.html), j'ai partagé comment configurer un pipeline CI/CD pour un projet .NET Aspire sur GitLab. Le pipeline inclut des tests unitaires, une analyse de sécurité, et la détection de secrets, et si l'un de ces éléments échoue, le pipeline échouerait. Super, mais qu'en est-il de la couverture de code (Code Coverage) pour les tests unitaires ? Le pipeline incluait des commandes de couverture de code, mais la couverture n'était pas visible dans l'interface GitLab. Réglons ça.
 
 ![Badge sur GitLab montrant couverture inconnue](../content/images/2025/07/coverage-unknown.png)
 
