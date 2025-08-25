@@ -2,6 +2,7 @@
 title: "Comment avoir un CI/CD GitLab pour un projet .NET Aspire"
 Published: 2025-07-07
 categories: post
+image: ../content/images/2025/07/aspire_template.png
 tags: [ai,gitlab,duo,aspire,cicd,security,pipeline]
 ---
 

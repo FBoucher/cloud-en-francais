@@ -2,6 +2,8 @@
 title: 'Pourquoi votre badge de "Code Coverage" .NET affiche "Unknown" dans GitLab (et comment le réparer)'
 Published: 2025-07-17
 categories: post
+featured-image: ../content/images/2025/07/coverage-works.png
+Image: ../content/images/2025/07/coverage-works.png
 tags: [ai,devops,dotnet,gitlab,copilot,aspire,cicd,unittest,pipeline]
 ---
 
